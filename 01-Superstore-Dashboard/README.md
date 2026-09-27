@@ -11,7 +11,7 @@ The project transforms raw sales data into meaningful business insights using **
 
 <!-- Add your dashboard screenshot here -->
 
-![Super Store Sales Dashboard](dashboard-preview.png)
+![Super Store Sales Dashboard](https://github.com/CinePathy/Excel-Data-Analytics-Portfolio/blob/main/01-Superstore-Dashboard/Dashboard%20Img.png)
 
 ---
 
