@@ -9,7 +9,7 @@ The project demonstrates how customer data can be transformed into meaningful in
 ## 📊 Dashboard Preview
 
 
-![Bike Sales Dashboard](dashboard-preview.png)
+![Bike Sales Dashboard](https://github.com/CinePathy/Excel-Data-Analytics-Portfolio/blob/main/02-Bike-Sales-Dashboard/Dashboard%20Img.png)
 
 ---
 
