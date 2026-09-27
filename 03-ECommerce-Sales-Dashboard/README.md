@@ -4,7 +4,7 @@ An interactive **E-Commerce Sales Dashboard built using Microsoft Excel** to ana
 
 This project demonstrates a complete Excel data analytics workflow, from **raw data preparation to interactive business dashboard development**.
 
-⭐ **This is my featured Excel project and is included in my resume.**
+⭐ **This is my featured Excel project.**
 
 ---
 
@@ -12,7 +12,7 @@ This project demonstrates a complete Excel data analytics workflow, from **raw d
 
 <!-- Add your dashboard screenshot here -->
 
-![E-Commerce Sales Dashboard](dashboard-preview.png)
+![E-Commerce Sales Dashboard](https://github.com/CinePathy/Excel-Data-Analytics-Portfolio/blob/main/03-ECommerce-Sales-Dashboard/Dashboard%20Img.png)
 
 ---
 
